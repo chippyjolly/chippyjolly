@@ -43,6 +43,8 @@ Currently exploring:
 
 ---
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=chippyjolly&theme=tokyonight)
+
 ### 🌱 Currently Learning
 
 - React hooks and custom components
