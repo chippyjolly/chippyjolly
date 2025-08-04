@@ -1,29 +1,22 @@
-<h1 align="center" style="color:#F720C4">Hi 👋, I'm Chippy Jolly</h1>
-<h3 align="center" style="color:#7F00FF">Engineering Student | Full-Stack Developer | Cloud Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F720C4&center=true&vCenter=true&width=435&lines=React+%7C+Tailwind+%7C+Express+%7C+MongoDB;Full+Stack+Developer+in+the+Making!;Welcome+to+my+Neon+Universe+💫" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi 👋, I'm Chippy Jolly</h1>
+<h3 align="center">Engineering Student | Full-Stack Developer | Cloud Enthusiast</h3>
 
 ---
 
-## 🌈 About Me
-- 🔭 I’m currently building a full-stack React app  
-- 🌱 Learning: Node.js, MongoDB, Express  
-- 👯 I’m looking to collaborate on open-source projects  
-- 🧠 Fun fact: I enjoy debugging and designing web UIs!  
+## 🧑‍💻 About Me
+- 🔭 I’m currently building a full-stack React app
+- 🌱 Learning: Node.js, MongoDB, Express
+- 👯 I’m looking to collaborate on open-source projects
+- 🧠 Fun fact: I enjoy debugging and designing web UIs!
 
 ---
 
 ## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=8CC84B"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-</p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 ---
 
@@ -32,24 +25,29 @@
 <div align="center">
 
 ### 🔥 GitHub Streak Stats  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chippyjolly&theme=synthwave&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chippyjolly&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
 ### 📈 Overall GitHub Stats  
-![Chippy's GitHub stats](https://github-readme-stats.vercel.app/api?username=chippyjolly&show_icons=true&theme=synthwave)
+![Chippy's GitHub stats](https://github-readme-stats.vercel.app/api?username=chippyjolly&show_icons=true&theme=tokyonight)
 
 ### 📌 Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chippyjolly&layout=compact&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chippyjolly&layout=compact&theme=tokyonight)
 
 </div>
 
 ---
 
 ## 🧠 Currently Learning
+- Advanced React & Redux
+- Authentication with JWT
+- MongoDB Aggregation
+- DevOps Basics with GitHub Actions
 
-```diff
-+ 🚀 Advanced React & Redux
-+ 🔐 Authentication with JWT
-+ 📦 MongoDB Aggregation
-+ ⚙️ DevOps Basics with GitHub Actions
+---
 
+## 📫 Connect with Me
+<p align="left">
+  <a href="www.linkedin.com/in/chippy-jolly"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="https://www.instagram.com/chippy_jolly"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
+</p>
 
