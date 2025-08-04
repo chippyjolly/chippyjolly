@@ -5,7 +5,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Chippy Jolly</h1>
-<h3 align="center">Engineering Student | Full-Stack Developer | Cloud Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F720C4&center=true&vCenter=true&width=1000&lines=Engineering+Student+%7C+Aspiring+Full-Stack+Developer;Code.+Debug.+Repeat.+%7C+Python+%26+DSA+Lover;Building+Cool+Things+with+Web+Tech+%F0%9F%9A%80" alt="Typing Animation" />
+</p>
+
 
 ---
 
