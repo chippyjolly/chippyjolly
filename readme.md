@@ -47,7 +47,7 @@
 
 ## 📫 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="https://instagram.com/yourhandle"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
+  <a href="www.linkedin.com/in/chippy-jolly"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="https://www.instagram.com/chippy_jolly"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
 </p>
 
