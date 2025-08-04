@@ -31,6 +31,36 @@
 
 ---
 
+---
+
+## 💻 Competitive Programming Profiles
+
+Keep track of my algorithmic journey across multiple platforms 👇
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-CHZ56_-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/CHZ56_/)
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-22adp2iq-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/22adp2iq/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-chippyjolly-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/chippyjolly)
+[![VJudge](https://img.shields.io/badge/VJudge-Chippy-007ACC?style=for-the-badge&logo=codeforces&logoColor=white)](https://vjudge.net/user/Chippy)
+
+---
+
+## 📊 Competitive Progress (August 2025)
+
+| Platform       | Solved / Rating | Target        |
+|----------------|------------------|---------------|
+| LeetCode       | 💻 120 problems   | 200 problems  |
+| GeeksforGeeks  | 📘 40 problems    | 100 problems  |
+| CodeChef       | ⭐ 2★ rating      | 3★ rating     |
+| VJudge         | ✔️ 80 submissions | 150 submissions |
+
+---
+
+## 🎯 Goals
+
+![Progress](https://img.shields.io/badge/-Level_Up_Mindset-orange?style=flat-square)
+![Target](https://img.shields.io/badge/-Strive_for_Mastery-blueviolet?style=flat-square)
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
