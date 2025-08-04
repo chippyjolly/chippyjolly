@@ -54,9 +54,8 @@ Currently exploring:
 
 ### 🤝 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com) <!-- Replace with your actual link -->
-- 🐦 [Twitter](https://www.twitter.com) <!-- Replace with your actual link -->
-- 📬 Email: your.email@example.com <!-- Replace with your email -->
+- 💼 [LinkedIn](https://www.linkedin.com/in/chippy-jolly/) 
+- 📬 Email: jollychippy2@gmail.com
 
 ---
 
