@@ -7,7 +7,6 @@
 - 🔭 I’m currently building a full-stack React app
 - 🌱 Learning: Node.js, MongoDB, Express
 - 👯 I’m looking to collaborate on open-source projects
-- 📫 Reach me: [LinkedIn](#) | [Instagram](#)
 - 🧠 Fun fact: I enjoy debugging and designing web UIs!
 
 ---
