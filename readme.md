@@ -6,8 +6,9 @@
 
 <h1 align="center">Hi 👋, I'm Chippy Jolly</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+%26+Data+Science+Student+%7C+Passionate+about+Python+%26+DSA+%7C+Focused+on+Web+Development" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00FFFF&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%26+Data+Science+Student;Passionate+about+Python+%26+DSA;Focused+on+Web+Development" alt="Typing animation" />
 </p>
+
 
 
 
