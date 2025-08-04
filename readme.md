@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/chippyjolly/chippyjolly/blob/main/header.jpg?raw=true" alt="Banner" width="100%" />
+  <img src="https://github.com/chippyjolly/chippyjolly/blob/main/header2.jpg?raw=true" alt="Banner" width="100%" />
 </p>
 
 
