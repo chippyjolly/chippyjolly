@@ -1,64 +1,54 @@
-# 👋 Hi, I'm Chippy Jolly
-
-### 🚀 Engineering Student | 💻 Full Stack Web Developer | 🧠 Lifelong Learner
-
-I'm an engineering student passionate about building cool and meaningful web apps. I learn best by building projects from scratch and deeply understanding every part — from layout design to server logic.
-
-Currently exploring:
-- Full Stack Development (React, Node.js, MongoDB)
-- Cloud concepts & servers
-- Data Structures & Algorithms with Python
+<h1 align="center">Hi 👋, I'm Chippy Jolly</h1>
+<h3 align="center">Engineering Student | Full-Stack Developer | Cloud Enthusiast</h3>
 
 ---
 
-### 🔧 Tech Stack
-
-- **Frontend:** HTML, CSS, TailwindCSS, JavaScript, React
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Other Tools:** Git, GitHub, Postman, JWT, Zod, Vite, Axios
-
----
-
-### 🧪 Highlight Projects
-
-- 🔍 **Binary Search Visualizer**  
-  An interactive React tool to visualize binary search step-by-step using animations and clean UI.  
-  _Built with React + TailwindCSS_
-
-- ✅ **Auth-Based To-Do App**  
-  Users can sign up, log in, and manage their own tasks. Token-based dashboard with personal task lists.  
-  _Tech Stack: React, Node.js, MongoDB, JWT_
-
-- 📄 **PDF Q&A & Similarity Search**  
-  AI-powered project that answers questions from research papers and finds similar papers.  
-  _Built with LangChain, HuggingFace, FAISS, Groq LLM_
+## 🧑‍💻 About Me
+- 🔭 I’m currently building a full-stack React app
+- 🌱 Learning: Node.js, MongoDB, Express
+- 👯 I’m looking to collaborate on open-source projects
+- 📫 Reach me: [LinkedIn](#) | [Instagram](#)
+- 🧠 Fun fact: I enjoy debugging and designing web UIs!
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chippyjolly&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chippyjolly&layout=compact&theme=tokyonight)
-
----
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=chippyjolly&theme=tokyonight)
-
-### 🌱 Currently Learning
-
-- React hooks and custom components
-- Express API + JWT authentication
-- Cloud computing fundamentals
-- Anime-style UI/UX design ✨
+## 💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 ---
 
-### 🤝 Let's Connect
+## 📊 GitHub Stats
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/chippy-jolly/) 
-- 📬 Email: jollychippy2@gmail.com
+<div align="center">
+
+### 🔥 GitHub Streak Stats  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chippyjolly&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+
+### 📈 Overall GitHub Stats  
+![Chippy's GitHub stats](https://github-readme-stats.vercel.app/api?username=chippyjolly&show_icons=true&theme=tokyonight)
+
+### 📌 Top Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chippyjolly&layout=compact&theme=tokyonight)
+
+</div>
 
 ---
 
-> *"Turn every bug into a lesson and every project into a milestone."*
+## 🧠 Currently Learning
+- Advanced React & Redux
+- Authentication with JWT
+- MongoDB Aggregation
+- DevOps Basics with GitHub Actions
+
+---
+
+## 📫 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="https://instagram.com/yourhandle"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
+</p>
+
