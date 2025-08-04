@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="https://github.com/chippyjolly/chippyjolly/blob/main/header.jpg?raw=true" alt="Banner" width="100%" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Chippy Jolly</h1>
 <h3 align="center">Engineering Student | Full-Stack Developer | Cloud Enthusiast</h3>
 
