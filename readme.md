@@ -36,7 +36,6 @@
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FE7F2D?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/CHZ56_/)
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/22adp2iq/)
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/chippyjolly)
 [![VJudge](https://img.shields.io/badge/-VJudge-007ACC?style=for-the-badge&logo=codeforces&logoColor=white)](https://vjudge.net/user/Chippy)
 
 
